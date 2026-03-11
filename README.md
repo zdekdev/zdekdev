@@ -9,6 +9,11 @@ Gosto de programar em JavaScript e Go, tenho essa paixão por programação desd
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | HTML5 | CSS3 | JavaScript | Node.js | Vue.js | Express | Flutter | Electron | Go | Android Studio | MongoDB |
 
+## 🎓 Minhas Certificações & Formação
+
+| Ano/Conclusão | Certificado | Instituição | Link |
+| :--- | :--- | :--- | :---: |
+| 2026 | Qualificação Profissional de Nível Tecnológico em Desenvolvedor de Software | PUC Minas | [<img src="https://img.shields.io/badge/Visualizar-PDF-orange?style=flat-square" />](./certs/Certificado-de-Qualificação-884116.pdf-Assinado.pdf)|
 
 ## Meus projetos de código aberto
 * **[Monger](https://github.com/zdekdev/monger)** *Monger é um wrapper leve (e genérico) em Go para facilitar operações comuns com MongoDB usando o driver oficial (go.mongodb.org/mongo-driver).* `Go`
