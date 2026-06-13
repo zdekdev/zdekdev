@@ -16,6 +16,7 @@ Gosto de programar em JavaScript e Go, tenho essa paixão por programação desd
 | 2026 | Qualificação Profissional de Nível Tecnológico em Desenvolvedor de Software | PUC Minas | [<img src="https://img.shields.io/badge/Visualizar-PDF-orange?style=flat-square" />](./certs/Certificado-de-Qualificação-884116.pdf-Assinado.pdf)|
 
 ## Meus projetos de código aberto
+* **[Carimbo](https://github.com/zdekdev/carimbo)** *Extensao para Chrome/Chromium que adiciona uma assinatura automatica ao campo de mensagem do WhatsApp Web* `Js`
 * **[Monger](https://github.com/zdekdev/monger)** *Monger é um wrapper leve (e genérico) em Go para facilitar operações comuns com MongoDB usando o driver oficial (go.mongodb.org/mongo-driver).* `Go`
 * **[Caixa](https://github.com/zdekdev/caixa)** *É um pacote para Flutter que visa minimizar o código de estilização, além de criar estilos separados que podem ser reutilizados em outros componentes* `Flutter`
 * **[Chat via Captive Portal com ESP32](https://github.com/zdekdev/ESP32-CHAT-CAPTIVE-PORTAL)** *É um projeto que transforma um ESP em um servidor(Access point) de chat, fornecendo a interface através de um captive portal (tela de login de rede), com o objetivo de criar uma rede de comunicação sem a necessidade de roteadores, internet e aplicativos* `MicroPython`
