@@ -13,6 +13,7 @@ Gosto de programar em JavaScript e Go, tenho essa paixão por programação desd
 
 | Conclusão | Certificado | Instituição | Link |
 | :---: | :--- | :---: | :---: |
+| 2026 | Projeto destaque · 3º semestre | PUC Minas | [<img src="https://img.shields.io/badge/Visualizar-PDF-orange?style=flat-square" />](./certs/ReportaAí.pdf)|
 | 2026 | PAPO ICEG - Mente Empreendedora | PUC Minas | [<img src="https://img.shields.io/badge/Visualizar-PDF-orange?style=flat-square" />](./certs/certificado-PAPO-ICEG-Mente-Empreendedora.pdf)|
 | 2026 | Qualificação Profissional de Nível Tecnológico em Desenvolvedor de Software | PUC Minas | [<img src="https://img.shields.io/badge/Visualizar-PDF-orange?style=flat-square" />](./certs/Certificado-de-Qualificação-884116.pdf-Assinado.pdf)|
 
